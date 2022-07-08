@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmarvann/portfolio-generator1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmarvann/portfolio-generator1/issues"
+  },
+  "homepage": "https://github.com/cmarvann/portfolio-generator1#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
