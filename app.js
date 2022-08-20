@@ -1,14 +1,14 @@
 // fs statement
 const inquirer = require('inquirer');
 // const fs = require('fs');
-// const generatePage = require('./src/page-template.js');
+const generatePage = require('./src/page-template.js');
 
 // const pageHTML = generatePage(name, github);
 const {writeFile, copyFile}= require('./utils/generate-site.js');
 
 //   console.log('Portfolio complete! Check out index.html to see the output!');
 // });
-fs.writeFile('./dist/index.html');
+// fs.writeFile('./dist/index.html');
 
 const promptUser = () => {
 return inquirer.prompt([
