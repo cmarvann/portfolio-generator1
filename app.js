@@ -148,7 +148,7 @@ return inquirer.prompt([
       const pageMD = generatePage(portfolioData);
   
   
-        fs.writeFile('Example.md', pageMD, function(err) {
+        fs.writeFile('Portfolio.md', pageMD, function(err) {
           if (err) throw new Error(err);
     
           console.log('Page created!!');
