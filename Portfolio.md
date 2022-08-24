@@ -27,7 +27,6 @@
       <p>y</p>
     </section>
   
-      
     <section class="my-3" id="portfolio">
       <h2 class="text-dark bg-primary p-2 display-inline-block">Work</h2>
       <div class="flex-row justify-space-between">
@@ -36,9 +35,9 @@
             <h3 class="portfolio-item-title text-light">portfolio-generator1</h3>
             <h5 class="portfolio-languages">
               Built With:
-              JavaScript
+              JavaScript,, Node
             </h5>
-            <p>portfolio-generator1</p>
+            <p>Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque.</p>
             <a href="lernantino/portfolio-generator1" class="btn"><i class="fab fa-github mr-2"></i>View Project on GitHub</a>
           </div>
         
@@ -48,7 +47,7 @@
               Built With:
               HTML,CSS
             </h5>
-            <p>Runn Buddy</p>
+            <p>Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque.</p>
             <a href="https://github.com/lernantino/run-buddy" class="btn"><i class="fab fa-github mr-2"></i>View Project on GitHub</a>
           </div>
         
@@ -57,7 +56,7 @@
             <h5 class="portfolio-languages">
               Built With:
               JavaScript,HTML,CSS
-            </h5>
+            </h5>Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque.
             <p>Taskinator</p>
             <a href="https://github.com/lernantino/taskinator" class="btn"><i class="fab fa-github mr-2"></i>View Project on GitHub</a>
           </div>
@@ -68,7 +67,7 @@
               Built With:
               JavaScript,HTML,CSS,jQuery,Bootstrap
             </h5>
-            <p>Taskmaster Pro</p>
+            <p>Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque.</p>
             <a href="https://github.com/lernantino/taskmaster-pro" class="btn"><i class="fab fa-github mr-2"></i>View Project on GitHub</a>
           </div>
         
@@ -78,7 +77,7 @@
               Built With:
               JavaScript
             </h5>
-            <p>Robot Gladiators</p>
+            <p>Duis consectetur nunc nunc. Morbi finibus non sapien nec pharetra. Fusce nec dignissim orci, ac interdum ipsum. Morbi mattis justo sed commodo pellentesque.</p>
             <a href="https://github.com/lernantino/robot-gladiators" class="btn"><i class="fab fa-github mr-2"></i>View Project on GitHub</a>
           </div>
         
